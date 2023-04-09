@@ -14,15 +14,16 @@ namespace AgenciaBancaria.ConsoleApp
         public ContaCorrente(decimal saldoInicial, decimal limite, bool ehEspecial)
         {
             this.numero = GerarNrConta();
+
             this.limite = limite;
+
             this.ehEspecial = ehEspecial;
 
             this.movimentacoes = new List<Movimentacao>();
-            
+
             if (saldoInicial > 0)
                 this.Depositar(saldoInicial);
         }
-
 
         public void Depositar(decimal valor)
         {
@@ -70,17 +71,24 @@ namespace AgenciaBancaria.ConsoleApp
         }
 
         public string MostrarSaldo()
-        => $"saldo conta {numero} ----------- R$ {saldo}";
+        {
+            return $"saldo conta {numero} ----------- R$ {saldo}";
+        }
 
         private void Registrar(decimal valor, bool ehCredito)
-        => movimentacoes.Add(new Movimentacao(valor, ehCredito));
+        {
+            movimentacoes.Add(new Movimentacao(valor, ehCredito));
+        }
 
         private decimal ObterSaldo()
-        => movimentacoes.Sum(i => i.Valor);
+        {
+            return movimentacoes.Sum(i => i.Valor);
+        }
 
         private string GerarNrConta()
-        => contadorNrContas++.ToString();
-
+        {
+            return contadorNrContas++.ToString();
+        }
     }
 }
 
