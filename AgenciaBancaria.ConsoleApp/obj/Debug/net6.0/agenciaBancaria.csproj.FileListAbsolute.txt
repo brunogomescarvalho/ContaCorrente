@@ -1,0 +1,15 @@
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\bin\Debug\net6.0\agenciaBancaria.exe
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\bin\Debug\net6.0\agenciaBancaria.deps.json
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\bin\Debug\net6.0\agenciaBancaria.runtimeconfig.json
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\bin\Debug\net6.0\agenciaBancaria.dll
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\bin\Debug\net6.0\agenciaBancaria.pdb
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\obj\Debug\net6.0\agenciaBancaria.csproj.AssemblyReference.cache
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\obj\Debug\net6.0\agenciaBancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\obj\Debug\net6.0\agenciaBancaria.AssemblyInfoInputs.cache
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\obj\Debug\net6.0\agenciaBancaria.AssemblyInfo.cs
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\obj\Debug\net6.0\agenciaBancaria.csproj.CoreCompileInputs.cache
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\obj\Debug\net6.0\agenciaBancaria.dll
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\obj\Debug\net6.0\refint\agenciaBancaria.dll
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\obj\Debug\net6.0\agenciaBancaria.pdb
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\obj\Debug\net6.0\agenciaBancaria.genruntimeconfig.cache
+C:\AP\Modulo_1\14 - AgenciaBancaria2\AgenciaBancaria.ConsoleApp\obj\Debug\net6.0\ref\agenciaBancaria.dll
